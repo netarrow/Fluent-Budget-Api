@@ -1,0 +1,12 @@
+Conto,Data,Tag,Descrizione,Importo
+Banca,1/9/2012,mock-spesa,,-15 €
+Banca,1/10/2012,mock-spesa,,-15 €
+Banca,1/10/2012,mock-guadagno,,800 €
+Banca,2/1/2012,mock-spesa,,-15 €
+Banca,2/8/2012,mock-guadagno,,"1.000 €"
+Banca,2/8/2012,mock-spesa,,"-1 €"
+Banca,3/1/2012,mock-spesa,,-300 €
+Banca,3/8/2012,mock-guadagno,,"2.000 €"
+Banca,3/8/2012,mock-spesa,,"-100 €"
+Banca,4/1/2012,mock-spesa,,-600 €
+Banca,5/8/2012,mock-guadagno,,"1.100 €"
